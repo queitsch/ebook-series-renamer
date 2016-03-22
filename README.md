@@ -22,6 +22,7 @@ Takes the series name from the containing foldername. The expected folder struct
 ```
 
 ### Requirements:
+* `ruby`
 * "ebook-meta" binary from the [calibre project](http://calibre-ebook.com) somewhere in PATH. If you install calibre via [Homebrew](https://brew.sh), it's added to your PATH automatically.
 * The `mobi` gem.
 ```
