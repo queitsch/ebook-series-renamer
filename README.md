@@ -15,10 +15,10 @@ Takes the series name from the containing foldername. The expected folder struct
 │ ├──◆ The Fellowship Of The Ring.mobi
 │ ├──◆ The Two Towers.mobi
 │ └──◆ The Return Of The King.mobi
-├─┬◆ [Some Other Series]
-│ ├──◆ Volume One.mobi
-│ ├──◆ Volume Two.mobi
-│ └──◆ Volume Three.mobi
+└─┬◆ [Some Other Series]
+  ├──◆ Volume One.mobi
+  ├──◆ Volume Two.mobi
+  └──◆ Volume Three.mobi
 ```
 
 ### Requirements:
