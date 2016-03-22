@@ -4,8 +4,6 @@
 
 Adds the name of a book series to the `title` metadata field of Kindle-formated (`.mobi`) eBooks so they show up sorted by series name on a Kindle device.
 
-Optionally renames .mobi files from `$filename` to `$series_$filename` (uncomment the mv_cmd lines).
-
 ### Usage:
 `./ebook-series-renamer.rb [folder]`
 
